@@ -1,0 +1,7 @@
+{
+  "name": "VisionClone AI",
+  "description": "An advanced image-to-image generation studio that recreates or transforms images based on your visual reference and text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
