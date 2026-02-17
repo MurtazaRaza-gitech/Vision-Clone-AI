@@ -1,8 +1,8 @@
 
 import React, { useState, useRef } from 'react';
-import Navbar from './components/Navbar';
-import Button from './components/Button';
-import { geminiService } from './services/geminiService';
+import Navbar from './Navbar';
+import Button from './Button';
+import { geminiService } from './geminiService';
 import { GenerationResult, GenerationStatus } from './types';
 
 const App: React.FC = () => {
